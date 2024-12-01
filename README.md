@@ -13,13 +13,13 @@
 How to use:
 install the tool:
 1:
-git clone 
+git clone https://github.com/Ghassan0o0/HiddenURL.git
 
 2:
 pip install python-nmap python-whois
 
 3:
-cd 
+cd HiddenURL
 
 run the file (hiddenurl.py)
 use the command:
